@@ -5,29 +5,29 @@ function App() {
   return (
     <Carousel showThumbs={false}>
       <div>
-        <img src="./images/banner-img1.jpeg" alt="banner1" />
-        <button className="legend">Legend 3</button>
+        <img src="https://www.anthology-us.com/assets/images/banner-img1.jpg" alt="banner1" />
+        <button className="legend">Legend 1</button>
 
       </div>
       <div>
-        <img src="./images/banner-img2.jpeg" alt="banner2" />
-        <button className="legend">Legend 3</button>
+        <img src="https://www.anthology-us.com/assets/images/banner-img2.jpg" alt="banner2" />
+        <button className="legend">Legend 2</button>
 
       </div>
       <div>
-        <img src="./images/banner-img3.jpeg" alt="banner3" />
+        <img src="https://www.anthology-us.com/assets/images/banner-img3.jpg" alt="banner3" />
         <p>Most platforms place little value on you and your time, pay you peanuts, and take you for granted. Feel recognized. Feel prioritized. Feel supported. Get Anthology today.</p>
         <button className="legend">Legend 3</button>
       </div>
       <div>
-        <img src="./images/banner-img4.jpeg" alt="banner4" />
+        <img src="https://www.anthology-us.com/assets/images/banner-img4.jpg" alt="banner4" />
         <p>Most platforms place little value on you and your time, pay you peanuts, and take you for granted. Feel recognized. Feel prioritized. Feel supported. Get Anthology today.</p>
-        <button className="legend">Legend 3</button>
+        <button className="legend">Legend 4</button>
       </div>
       <div>
-        <img src="./images/banner-img5.jpeg" alt="banner5" />
+        <img src="https://www.anthology-us.com/assets/images/banner-img5.jpg" alt="banner5" />
         <p>Most platforms place little value on you and your time, pay you peanuts, and take you for granted. Feel recognized. Feel prioritized. Feel supported. Get Anthology today.</p>
-        <button className="legend">Legend 3</button>
+        <button className="legend">Legend 5</button>
       </div>
     </Carousel>
   );
